@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bitcoinChart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bitcoinChart/static/js/main.3344d9cf.chunk.js",
+    "main.js.map": "/bitcoinChart/static/js/main.3344d9cf.chunk.js.map",
+    "runtime-main.js": "/bitcoinChart/static/js/runtime-main.bb9ad048.js",
+    "runtime-main.js.map": "/bitcoinChart/static/js/runtime-main.bb9ad048.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bitcoinChart/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9ab35794.chunk.js": "/bitcoinChart/static/js/2.9ab35794.chunk.js",
+    "static/js/2.9ab35794.chunk.js.map": "/bitcoinChart/static/js/2.9ab35794.chunk.js.map",
+    "index.html": "/bitcoinChart/index.html",
+    "precache-manifest.920bbbfe6a0f1b7164bbf0a27863843c.js": "/bitcoinChart/precache-manifest.920bbbfe6a0f1b7164bbf0a27863843c.js",
+    "service-worker.js": "/bitcoinChart/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bitcoinChart/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/bitcoinChart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9ab35794.chunk.js.LICENSE.txt": "/bitcoinChart/static/js/2.9ab35794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb9ad048.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9ab35794.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3344d9cf.chunk.js"
+  ]
+}
